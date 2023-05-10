@@ -1,0 +1,12 @@
+{
+    "name": "soudeh/sell-file",
+    "autoload": {
+        "psr-4": {
+            "Mosadeghe\\SellFile\\": "src/"
+        }
+    },
+    "require": {
+        "pecee/simple-router": "5.0.0.3",
+      "ext-mysqli": "*"
+    }
+}
